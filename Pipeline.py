@@ -7,7 +7,7 @@ tokenizer = AutoTokenizer.from_pretrained("bert-base-cased")
 model = AutoModelForSequenceClassification.from_pretrained("bucketresearch/politicalBiasBERT")
 
 client = OpenAI(
-    api_key="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",
+    api_key="",
 )
 
 # Function to generate tweet prompts
