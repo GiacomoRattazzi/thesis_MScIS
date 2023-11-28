@@ -87,7 +87,7 @@ def getResultsLLM(generation_type, model):
             bert_score = get_BERT_score(generated_content)
             writer.writerow([prompt, generated_content, bert_score])
 
-    print(f"CSV file with {'news headlines' if generation_type == 0 else 'tweets'} and BERT scores created.")
+    print(f"CSV file created.")
 
 if __name__ == '__main__':
     getResultsLLM(0, 'gpt-3.5-turbo')
