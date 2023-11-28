@@ -1,0 +1,492 @@
+News Company,Number of Articles,Political Stance (AllSides)
+CNN (Web News),2905,left-center
+Washington Times,2886,right-center
+Politico,2493,left-center
+Fox Online News,2047,right-center
+NPR Online News,2012,center
+USA TODAY,1791,center
+Vox,1460,left
+New York Times - News,1417,left-center
+The Hill,1377,center
+Fox News,1356,Unknown
+Christian Science Monitor,1300,center
+Townhall,1285,right
+National Review,1014,right
+Reuters,927,center
+BBC News,886,center
+Salon,687,left
+Newsmax,671,right
+The Guardian,644,left-center
+Reason,566,right-center
+CBN,504,right
+Breitbart News,465,right
+Guest Writer - Right,465,right-center
+Associated Press,391,center
+ABC News,341,left-center
+The Daily Caller,339,right
+Wall Street Journal - News,335,center
+American Spectator,310,right
+The Flip Side,241,allsides
+Daily Beast,240,left
+TheBlaze.com,219,right
+Guest Writer - Left,180,left-center
+New York Post,179,right
+Bloomberg,178,center
+The Atlantic,174,left-center
+CBS News,164,left-center
+Slate,158,left
+Vanity Fair,157,left-center
+Al Jazeera,145,left-center
+Daily Kos,127,left
+The Daily Wire,122,right
+The Week - News,119,center
+Mother Jones,114,left
+Washington Post,109,left-center
+CNBC,108,center
+Media Matters,107,left
+MarketWatch,106,right-center
+Guest Writer,94,Unknown
+FiveThirtyEight,91,center
+CNN - Editorial,87,left
+Fox News (Online),86,Unknown
+Chicago Sun-Times,83,left-center
+Yahoo! The 360,80,allsides
+Newsmax - News,78,Unknown
+Business Insider,76,center
+Axios,76,center
+Vice,75,left
+Time Magazine,75,left-center
+Democracy Now,75,left
+ProPublica,72,center
+BuzzFeed News,71,left
+New York Times - Opinion,69,left
+HotAir,65,right-center
+Victor Hanson,63,right-center
+Fox News Opinion,58,right
+Pew Research Center,58,Unknown
+New York Magazine,51,left
+International Business Times,49,center
+RealClearPolitics,46,center
+Daily Mail,46,right
+Media Research Center,45,right
+John Stossel,44,right-center
+Yahoo! News,44,left-center
+NewsBusters,44,right
+Rich Lowry,44,right
+The Intercept,43,left
+Washington Free Beacon,40,right
+Scientific American,40,center
+NBC News (Online),38,Unknown
+Newsmax - Opinion,36,Unknown
+The Dispatch,34,Unknown
+ThinkProgress,33,left
+The Nation,32,left
+The Epoch Times,30,right
+The Economist,28,left-center
+Independent Journal Review,27,right-center
+The Marshall Project,27,Unknown
+Ben Shapiro,26,right
+The Boston Globe,24,left-center
+The Week - Opinion,24,Unknown
+Quillette,23,right-center
+Jacobin,23,left
+New York Times (Online News),22,Unknown
+The New Yorker,21,left
+InfoWars,21,right
+Foreign Policy,20,Unknown
+The Verge,19,left-center
+Snopes,18,Unknown
+New Republic,18,left
+NBCNews.com,18,left-center
+MSNBC,17,left
+BET,17,Unknown
+George Will,17,right
+Wired,16,Unknown
+John Fund,16,right-center
+Brookings Institution,16,center
+ABC News (Online),15,Unknown
+PBS NewsHour,14,center
+Howard Kurtz,14,center
+Damon Linker,14,left-center
+Newt Gingrich,14,right
+Lifehacker,14,center
+Roll Call,13,center
+Grist,13,left-center
+Michelle Malkin,12,right
+Nieman Lab,12,Unknown
+The Thread,11,Unknown
+IVN,11,center
+Deseret News,11,right-center
+CNET,11,center
+Mediaite,11,left-center
+Quartz,11,center
+Ezra Klein,10,left
+Human Rights Watch,10,Unknown
+San Francisco Chronicle,10,left
+Boston Herald,10,right-center
+Julian Zelizer,10,left-center
+The Daily Signal,10,right
+Juan Williams,10,left-center
+Wall Street Journal - Editorial,10,right-center
+HuffPost,10,left
+Center For American Progress,10,left-center
+The Root,9,left-center
+RollingStone.com,9,left
+CNS News,9,right
+The Post Millennial,9,right-center
+Bustle,9,left-center
+Charles Krauthammer,9,right-center
+Jonah Goldberg,9,right
+Daily Chela,8,Unknown
+NPR Editorial ,8,Unknown
+The Heritage Foundation,8,right-center
+Newsmax (News),8,Unknown
+The Dallas Morning News,8,center
+AP Fact Check,8,Unknown
+Michael Brendan Dougherty,8,right-center
+Rand Paul,8,right-center
+Prager University,8,right
+Cato Institute (blog),8,right-center
+Ann Coulter,7,right
+Gallup,7,Unknown
+Detroit Free Press,7,Unknown
+Defense One,7,center
+TechCrunch,7,center
+David Brooks,7,right-center
+Ryan Cooper,6,left
+AlterNet,6,left
+Above The Law,6,Unknown
+Pacific Standard,6,left-center
+The Texas Tribune,6,Unknown
+National Journal,6,center
+Allysia Finley (Wall Street Journal),6,right
+CNSNews.com,6,right
+Brent Bozell,6,right
+Ben Stein,5,right-center
+PJ Media,5,right
+Esquire,5,left
+Wikipedia,5,Unknown
+The Reporters Committee for Freedom of the Press,5,Unknown
+Current Affairs,5,left
+New York Post (News),5,Unknown
+American Thinker,5,right
+Jezebel,5,left
+Portland Press Herald,5,center
+Mitú,5,Unknown
+New York Post (Opinion),5,Unknown
+Chicago Tribune,5,center
+The Observer (New York),5,center
+Michael Barone,5,right-center
+Medium,5,Unknown
+City Journal,5,right
+Elizabeth Warren,4,Unknown
+The Libertarian Republic,4,right-center
+Center for Public Integrity,4,left-center
+Michael Goodwin,4,right
+The Western Journal,4,Unknown
+Frank Bruni,4,left-center
+Orange County Register,4,right-center
+Fortune,4,Unknown
+S.E. Cupp,4,Unknown
+Gizmodo,4,Unknown
+Black Enterprise,4,Unknown
+Pat Buchanan,4,Unknown
+San Jose Mercury News,4,left-center
+CalMatters,3,center
+ESPN,3,Unknown
+"John Gable, AllSides Founder",3,right-center
+Heavy.com,3,Unknown
+Detroit News,3,Unknown
+Investor's Business Daily,3,right-center
+Red State,3,right
+Independent Institute,3,right-center
+The Intelligencer,3,Unknown
+Committee to Protect Journalists,3,Unknown
+Barack Obama,3,Unknown
+Los Angeles Times,3,left-center
+Harvard Business School,3,left-center
+Jon Terbush,3,left-center
+Andrew Napolitano,3,right
+Guest Writer - Center,3,center
+WND.com,3,right
+Matt Welch,3,right-center
+Bret Stephens,3,right-center
+Atlanta Journal-Constitution,3,left-center
+Oxford University Press,3,Unknown
+Medical Daily,3,Unknown
+David Leonhardt,3,left-center
+Fast Company,3,Unknown
+Mashable,3,left
+The American Mind,3,Unknown
+The Jerusalem Post,3,center
+Thomas Sowell,3,right-center
+Splinter,3,left
+Michelle Goldberg,3,Unknown
+Boston Herald Editorial,3,right-center
+The American Spectator,3,Unknown
+Scott Walker,3,Unknown
+Raw Story,3,left
+American Enterprise Institute,2,right-center
+Star Tribune,2,Unknown
+Foreign Affairs,2,center
+The Daily Wildcat,2,Unknown
+Mic,2,Unknown
+Charles Blow,2,left-center
+The Texan,2,Unknown
+ZeroHedge,2,Unknown
+Rasmussen Reports,2,center
+AllSides,2,allsides
+DesMoines Register,2,Unknown
+Gail Collins,2,Unknown
+WFAE,2,center
+The Hollywood Reporter,2,Unknown
+Patriot Post,2,Unknown
+The Denver Post,2,Unknown
+Jeff Jacoby,2,right
+Latino Rebels,2,Unknown
+NBC Today Show,2,left-center
+City Lab,2,Unknown
+Dana Milbank,2,center
+Bridgemi.com,2,Unknown
+Religion News Service,2,Unknown
+Education Week,2,Unknown
+WGN,2,center
+Tallahassee Democrat,2,center
+Mitt Romney,2,Unknown
+PinkNews,2,Unknown
+Right Side News,2,right
+Tucker Carlson,2,right
+Scott Jennings,2,Unknown
+Des Moines Register,2,Unknown
+Fiscal Times,2,right-center
+The Massachusetts Daily Collegian,2,Unknown
+The Advocate,2,Unknown
+London School of Economics,2,Unknown
+RAND Corporation,2,left-center
+Scriberr Media - News,2,Unknown
+USAPP,2,Unknown
+Smithsonian Magazine,2,Unknown
+The Times of Israel,2,Unknown
+AARP,2,center
+Christianity Today,2,Unknown
+Billy Binion,2,center
+Psypost,2,Unknown
+Sally Pipes,2,right
+Ralph Benko,2,right
+TED,2,Unknown
+East Bay Times,2,Unknown
+Deadline.com,2,Unknown
+Dick Morris,2,right-center
+Louisville Courier-Journal,2,left-center
+MIT News,2,center
+GQ.com,2,Unknown
+Las Vegas Sun,2,left-center
+Jesse Jackson,2,left
+Carol Costello,2,Unknown
+GLAAD,2,Unknown
+The Resurgent,2,right
+Fabius Maximus,2,Unknown
+AL.com,2,Unknown
+Walt Handelsman (cartoonist),1,left
+Socialist Worker,1,Unknown
+OpenSecrets.org,1,center
+FAIR,1,left-center
+Scriberr Media - Opinion/Editorial,1,Unknown
+Nicholas Kristof,1,left
+The American Conservative,1,right-center
+Blue Virginia,1,left
+Carrie Lukas,1,right
+Tim Kaine,1,Unknown
+Sierra Sun,1,Unknown
+Cosmopolitan,1,Unknown
+CivilPolitics.org,1,center
+Erraticus,1,Unknown
+Noah Rothman,1,right-center
+ACLU,1,left-center
+Freakonomics,1,center
+WBFO,1,Unknown
+CalWatchdog,1,center
+The Seattle Times,1,Unknown
+The Imaginative Conservative,1,Unknown
+Amy Klobuchar,1,Unknown
+Conor Friedersdorf,1,center
+Kitsap Sun,1,Unknown
+NewsOne,1,Unknown
+University of Bath,1,Unknown
+Duke Chronicle,1,center
+Al Cardenas,1,right
+RedCross.org,1,Unknown
+Richard A. Lowry,1,right
+PRI (Public Radio International),1,center
+Arkansas Democrat-Gazette,1,left
+Tucson Weekly,1,Unknown
+The Korea Herald,1,center
+Bring Me The News,1,Unknown
+New York Daily News,1,left
+University of Delaware Review,1,Unknown
+San Gabriel Valley Tribune,1,Unknown
+The Independent,1,left-center
+Project Syndicate,1,Unknown
+Volante,1,center
+Christopher Buskirk,1,right-center
+Washington Monthly,1,left-center
+The Catalyst,1,Unknown
+Austin American-Statesman,1,left-center
+The Daily Texan,1,Unknown
+PACE,1,Unknown
+Dennis Prager,1,Unknown
+Paul Ryan,1,Unknown
+Quinnipiac University,1,Unknown
+Block Club Chicago,1,Unknown
+Whitehouse.gov,1,right-center
+The State Press,1,Unknown
+AZ Central,1,center
+Jonathan Haidt,1,Unknown
+Drudge Report,1,right-center
+AZO Cleantech,1,Unknown
+KSL,1,right
+Rutgers Today,1,Unknown
+Rich Zeoli,1,right-center
+American Greatness,1,right
+Socialist Alternative,1,left
+Lawrence Journal World,1,Unknown
+Rev. Jesse Jackson Sr.,1,Unknown
+Yellow Scene Magazine,1,Unknown
+CBC News,1,Unknown
+John Boehner,1,right
+The Outline,1,Unknown
+Herald Democrat,1,left
+Zionist Organization of America,1,Unknown
+CU Independent,1,center
+Peacock Panache,1,left
+Baltimore Sun,1,Unknown
+Pacific Research Institute,1,right
+Jim Obergefell,1,Unknown
+New York Times Editorial Board,1,Unknown
+Daily Targum,1,left-center
+Houston Chronicle,1,Unknown
+Washington Examiner,1,right-center
+Conservative HQ,1,right
+The Courier-Journal,1,left-center
+The Colorado Sun,1,Unknown
+Ted Rall (cartoonist),1,left
+Bay Area Bandwith,1,Unknown
+JSTOR Daily,1,Unknown
+NASA,1,Unknown
+FXStreet,1,Unknown
+NBC (Web News),1,Unknown
+Daily Northwestern,1,left-center
+Thomas Frey,1,Unknown
+theunion.com,1,Unknown
+James Bovard,1,Unknown
+Kellogg Insight,1,Unknown
+Brown Girl Magazine,1,Unknown
+Andrew Sullivan,1,right-center
+Jonathan Chait,1,left
+Wausau Daily Herald,1,Unknown
+The Conversation,1,Unknown
+Henry A. Brechter,1,center
+Bucks County Courier Times,1,Unknown
+Center - Major Media Sources,1,center
+Kathleen Parker,1,right-center
+Civil.Ge,1,Unknown
+Fox News Latino,1,right
+Penn Live,1,Unknown
+FEE.org,1,Unknown
+Commonwealth Journal,1,Unknown
+CBS SFBayArea,1,Unknown
+Student Press Law Center,1,Unknown
+Boston Review,1,Unknown
+DAG Blog,1,Unknown
+Matt Towery,1,right-center
+Carnegie Endowment for International Peace,1,center
+Brock Press,1,Unknown
+Bipartisan Policy Center,1,Unknown
+Inside Philanthropy,1,center
+Global Research,1,Unknown
+Marc A. Thiessen,1,right
+Military Times,1,Unknown
+Daily Sabah,1,Unknown
+Daily Camera,1,Unknown
+Tom Nichols,1,right-center
+Odyssey Online,1,Unknown
+Mitch McConnell,1,Unknown
+Teen Vogue,1,left-center
+Eli Parser,1,left
+Annafi Wahed,1,left-center
+MichelleMalkin.com,1,right
+National Interest,1,center
+International Institute for Strategic Studies,1,Unknown
+Webster Journal,1,Unknown
+Brown University,1,Unknown
+Longmont Times-Call,1,left-center
+Socialist Project/The Bullet,1,left
+Michael Kinsley,1,left
+Bipartisan Report,1,Unknown
+Live Action News,1,right-center
+Voice of America,1,Unknown
+The Hoya,1,Unknown
+Rahm Emanuel,1,left-center
+SFGate,1,left-center
+Thomas Frank,1,left-center
+Glamour,1,Unknown
+KUTV,1,Unknown
+MediaPost,1,Unknown
+Daily Cardinal,1,center
+Counter Currents,1,left-center
+William Bennett,1,right
+Intellectual Conservative,1,right-center
+Cook Report,1,center
+Joe Scarborough,1,right-center
+LGBTQ Nation,1,Unknown
+Arkadi Gerney,1,left-center
+Jeff Spross,1,Unknown
+Jonathan Miller,1,left
+Ken Burns,1,Unknown
+Aaron Carroll,1,Unknown
+Honolulu Civil Beat,1,center
+Chris Ruddy,1,right
+The Commercial Appeal,1,left-center
+Western Journal,1,Unknown
+Neil J. Young,1,left-center
+The Telegraph - UK,1,right-center
+Misinformation Review,1,Unknown
+Kalamazoo Gazette,1,Unknown
+Joan Blades,1,left
+KALW.org,1,Unknown
+The Diplomat,1,Unknown
+Peggy Noonan,1,right
+Reason Foundation,1,right-center
+Association for Psychological Science,1,center
+Cato Institute,1,Unknown
+Indy Online,1,center
+Toronto Star,1,Unknown
+The Justice,1,left-center
+Family Research Council,1,right-center
+Polish Times,1,Unknown
+University of Wyoming,1,Unknown
+Business Wire,1,Unknown
+Indiana Daily Student,1,center
+TruthOut,1,left-center
+Ross Douthat,1,right-center
+Hillary Clinton,1,Unknown
+Mercatus Center,1,Unknown
+Manhattan Institute,1,right-center
+Piers Morgan,1,left-center
+Concord Monitor,1,Unknown
+David Williamson,1,Unknown
+Federation of American Scientists,1,left-center
+Metrocosm,1,Unknown
+Commentary Magazine,1,right
+Americans for Tax Reform,1,right
+Living Room Conversations,1,allsides
+Marijuana Moment,1,Unknown
+Lisa Gable,1,right
+Tom Cole,1,right
+Peter Thiel,1,right-center
+The Times Higher Education,1,Unknown
+NMPolitics.net,1,center
+Star News,1,Unknown
+The Globe and Mail,1,Unknown
+Rem Reider,1,center
+News Wise,1,Unknown
