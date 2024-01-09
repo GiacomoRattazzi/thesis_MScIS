@@ -19,7 +19,7 @@ def read_csv_safe(file_path, sep='|'):
 def truncate_speech(speech):
     return ' '.join(str(speech).split()[:512])
 
-# Define keywords for filtering speeches related to climate change
+# keywords for filtering speeches related to climate change
 keywords = ['climate change', 'global warming', 'carbon emissions']
 
 # Enable progress_apply with tqdm
