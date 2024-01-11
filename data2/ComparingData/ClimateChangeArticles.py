@@ -2,7 +2,6 @@ import pandas as pd
 import os
 from tqdm import tqdm
 
-# Assuming all your filtered files are in a directory called 'filtered_files'
 directory = 'M:\Thesis\data2\comparedatasets/filtered'
 
 # List to store rows that match the criteria
