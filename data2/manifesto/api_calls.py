@@ -1,6 +1,6 @@
 import pandas as pd
 
-api_key = '8b0c5b46bdb70725767476f8c2f62114'
+api_key = ''
 dataset_key = "MPDS2023a"
 version = '2023-1'
 import requests
@@ -72,7 +72,7 @@ def get_texts_and_annotations(api_key, manifesto_ids, version):
             full_text = ' '.join([text_item.get('text', '') for text_item in text_items])
             texts[key] = full_text
     else:
-        # If the response is not successful, you can decide how to handle this
+       
         pass
 
     return texts
